@@ -1,0 +1,16 @@
+# Aurora Framework - Python Dependencies
+
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Quantum computing
+qiskit>=0.45.0
+qiskit-ibm-runtime>=0.15.0
+
+# Data handling
+pandas>=2.0.0
+
+# Statistical analysis
+statsmodels>=0.14.0
